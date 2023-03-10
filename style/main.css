@@ -1,0 +1,39 @@
+body{
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+
+}
+a{
+    text-align: center;
+    justify-content: center;
+}
+.header{
+    background-color: #232536;
+    height: 80px;
+}
+.background-Navbar{
+    background-color: #232536;
+}
+.textNav-bar{
+    color: white;
+}
+.content-center{
+    text-align: center;
+    justify-content: center;
+}
+.textNav-bar:hover{
+    color: white;
+    background-color: #232536;
+}
+.textNav-bar:focus{
+    color: white;
+    background-color: #232536;
+}
+.ButtonNavbar{
+    background: transparent;
+    border: transparent;
+}
+.dropdown-item{
+    border: white;
+    border: 1px;
+}
