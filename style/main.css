@@ -13,13 +13,12 @@ a{
 .background-Navbar{
     background-color: #232536;
 }
-.textNav-bar{
-    color: white;
-}
 .content-center{
     text-align: center;
     justify-content: center;
-}
+}.textNav-bar{
+     color: white;
+ }
 .textNav-bar:hover{
     color: white;
     background-color: #232536;
@@ -31,10 +30,6 @@ a{
 .ButtonNavbar{
     background: transparent;
     border: transparent;
-}
-.dropdown-item{
-    border: white;
-    border: 1px;
 }
 .dropdown-menu{
     border-color: white;
