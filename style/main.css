@@ -43,3 +43,12 @@ a{
     position: relative;
     bottom: 1px;
 }
+.mention-legales{
+    position: relative;
+    bottom: 39px;
+    left: 935px;
+    text-decoration: none;
+}
+.gg{
+    text-decoration: none;
+}
