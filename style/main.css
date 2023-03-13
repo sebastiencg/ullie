@@ -34,3 +34,10 @@ a{
 .dropdown-menu{
     border-color: white;
 }
+.footer{
+    background-color: #232536;
+    height: 313px;
+}
+.footer-Navbar{
+    padding-bottom: 240px;
+}
