@@ -1,0 +1,19 @@
+.banner{
+    height: 256px;
+    background-color: #F4F0F8;
+    display: table;
+    text-align: center;
+
+}
+h1{
+    display: table-cell;
+    vertical-align: middle;
+}
+h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.contenu{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
