@@ -35,8 +35,8 @@ a{
     border-color: white;
 }
 .footer-Navbar{
-    height: 150px;
-    width: 668px;
+    position: relative;
+    bottom: 2px;
 }
 .mention-legales{
     text-decoration: none;
