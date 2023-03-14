@@ -14,7 +14,18 @@
 .contact{
     margin: 35px auto;
     background-color: #730909;
-
+}
+.formulaire{
+    margin: 35px auto;
+}
+.button{
+    margin-top: 15px;
+    height: 50px;
+    background-color: #730909;
+    color: white;
+    border: none;
+    font-family: sen, sans-serif;
+    font-weight: bold;
 }
 .nos-Adresses{
     padding-left: 10%;
