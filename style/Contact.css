@@ -30,6 +30,7 @@
 .nos-Adresses{
     padding-left: 10%;
     padding-top: 22px;
+    padding-bottom: 22px;
     color: #C79D9D;
     font-family: Inter, sans-serif;
     font-size: 13px;
@@ -37,6 +38,7 @@
 .contactez-nous{
     padding-right: 10%;
     padding-top: 22px;
+    padding-bottom: 22px;
     color: #C79D9D;
     font-family: Inter, sans-serif;
     font-size: 13px;
@@ -47,5 +49,5 @@ hr{
 }
 .h6-contact{
     color: white;
-
 }
+
