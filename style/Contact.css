@@ -8,19 +8,33 @@
     display: table-cell;
     vertical-align: middle;
 }
+.p-banner{
+    color: #6D6E76;
+}
 .contact{
     margin: 35px auto;
-}
-.kk{
+    background-color: #730909;
 
 }
 .nos-Adresses{
-    background-color: red;
-    padding-left: 30px;
+    padding-left: 10%;
     padding-top: 22px;
+    color: #C79D9D;
+    font-family: Inter, sans-serif;
+    font-size: 13px;
 }
 .contactez-nous{
-    background-color: green;
-    padding-left: 30px;
+    padding-right: 10%;
     padding-top: 22px;
+    color: #C79D9D;
+    font-family: Inter, sans-serif;
+    font-size: 13px;
+}
+hr{
+    width: 90%;
+    color: white;
+}
+.p-contact{
+    font-family: sen, sans-serif;
+    color: white;
 }
